@@ -1,6 +1,6 @@
 # recipeTDD
 
-## The objective of this code is made code on Test Driven Development.
+## The objective of this code is to apply the concept of Test Driven Development.
 
-### Tasks accomplish in this project:
-### created a fully-functioning REST API, Setup project using Docker, Travis-CI, created endpoints with a vast amount of unit test.
+### Task completed on this project:
+### Created a fully-functioning REST API, Docker, Travis-CI, and unit test.
